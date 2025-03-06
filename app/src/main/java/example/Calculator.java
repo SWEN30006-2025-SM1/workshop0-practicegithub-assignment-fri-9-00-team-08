@@ -18,6 +18,6 @@ public class Calculator {
 
     public double divide(int a, int b) {
         // a /b
-        return a / b;
+        return (double) a / b;
     }
 }
